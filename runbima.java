@@ -10,5 +10,6 @@ public class runbima{
     }
     catch(Exception ex){
       System.outprintln("Error: "+ex.toString());
+    }
   }
 }
