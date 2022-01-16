@@ -9,7 +9,7 @@ public class runbima{
       app.exec("calc");
     }
     catch(Exception ex){
-      System.outprintln("Error: "+ex.toString());
+      System.out.println("Error: "+ex.toString());
     }
   }
 }
